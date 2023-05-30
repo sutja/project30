@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.box{
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  padding: 40px;
+  border: 20px solid blue;
+  border-radius: 100px 0 100px 0;
+  margin: 100px;
+  float: left;
+}
+body{
+  background-image:url("black-sea1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.test{
+  background-color: white;
+  width: 500px;
+  margin-left: 100px;
+ float: left;
+}
+.photo{
+  height: 200px;
+ margin-left: 200px;
+
+}
